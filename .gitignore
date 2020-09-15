@@ -52,3 +52,5 @@ Mkfile.old
 dkms.conf
 
 Users
+
+c_scratch*
