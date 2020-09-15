@@ -4,7 +4,7 @@
 */
 
 int led_pins[4] = {12, 11, 10, 9};
-int led_config[4] = {1, 1, 0, 1};
+int led_config[4] = {0, 0, 0, 0};
 int current_loop = 0;
 void setup()
 {
