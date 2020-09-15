@@ -8,7 +8,9 @@ int led_config[4] = {0, 0, 0, 0};
 int current_loop = 0;
 void setup()
 {
-  pinMode(13, OUTPUT);
+  for(int index=0;index<4; index++){
+    pinMode(led_pins[index], OUTPUT);
+  }
 }
 
 void loop()
