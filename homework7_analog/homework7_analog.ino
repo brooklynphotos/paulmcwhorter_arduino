@@ -1,5 +1,6 @@
 /**
  * increase brightness of LED
+ * https://www.youtube.com/watch?v=6CRhpUV92ww
  */
 
 int pin = 10;
