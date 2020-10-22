@@ -3,9 +3,9 @@
  * Mixing the RGB LED
  */
 
-int redPin = 3;
+int redPin = 6;
 int greenPin = 5;
-int bluePin = 6;
+int bluePin = 3;
 int delayTime = 1;
 int gap = 10;
 
